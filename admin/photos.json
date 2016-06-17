@@ -1,0 +1,548 @@
+[
+  {
+    "name": "general",
+    "desc": "General",
+    "items": [
+      {
+        "section": "general",
+        "name": "Archive Code",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Identification",
+        "type": "dropdown",
+        "pick": [
+          "Positive Photograph",
+          "Negative",
+          "Framed Photograph"
+        ]
+      },
+      {
+        "section": "general",
+        "name": "Author",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Date",
+        "type": "date",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Description of  support and ground (nature of the paper) :",
+        "type": "dropdown",
+        "pick": [
+          "White",
+          "Off-White",
+          "Cream Smooth",
+          "Textured",
+          "Wove",
+          "Photographic Paper",
+          "Glossy"
+        ]
+      },
+      {
+        "section": "general",
+        "name": "Dimensions (cm):",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Dimensions of the frame (cm):",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Media's description:",
+        "type": "dropdown",
+        "pick": [
+          "Black and white",
+          "Color",
+          "Process"
+        ]
+      },
+      {
+        "section": "general",
+        "name": "Coating:",
+        "type": "dropdown",
+        "pick": [
+          "Albumen – brown toned glossy",
+          "Gelatin- silver print",
+          "Glossy sized",
+          "Matte sized"
+        ]
+      },
+      {
+        "section": "general",
+        "name": "Auxiliary support description:",
+        "type": "textarea",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Auxiliary support dimensions (cm):",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Incoming condition of storage",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Documentation:",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Name of donator # Source",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Address#e-mail",
+        "type": "textarea",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "General condition:",
+        "type": "dropdown",
+        "pick": [
+          "Excellent",
+          "Good",
+          "Fair",
+          "Poor need immediate treatment"
+        ]
+      },
+      {
+        "section": "general",
+        "name": "Condition report done by",
+        "type": "text",
+        "pick": "default",
+        "default": "name"
+      },
+      {
+        "section": "general",
+        "name": "Condition report date",
+        "type": "text",
+        "pick": "default",
+        "default": "date"
+      },
+      {
+        "section": "general",
+        "name": "Diagram",
+        "type": "textarea",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Comments",
+        "type": "textarea",
+        "pick": ""
+      }
+    ]
+  },
+  {
+    "name": "conditionrecto",
+    "desc": "Support's Condition Recto",
+    "items": [
+      {
+        "section": "binding",
+        "name": "Nature surface dirt",
+        "type": "dropdown",
+        "pick": [
+          "Dust",
+          "Soiled",
+          "Deposit",
+          "Soot",
+          "Grime",
+          "Accretion"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Rip (description and pinpoint)",
+        "type": "dropdown",
+        "pick": [
+          "Tears or splits",
+          "Edge damage",
+          "Creases",
+          "Wrinkles",
+          "Folds"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Planar distortion:",
+        "type": "dropdown",
+        "pick": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Loss",
+        "type": "dropdown",
+        "pick": [
+          "Punch hole",
+          "Staple hole",
+          "Loss",
+          "Missing of page"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Delamination  (pinpoint):",
+        "type": "dropdown",
+        "pick": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Brittle paper",
+        "type": "dropdown",
+        "pick": [
+          "Extremely fragile",
+          "Fragile",
+          "No"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Surface appearance:",
+        "type": "dropdown",
+        "pick": [
+          "Staining",
+          "Yellowing",
+          "Foxing"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": " Contamination:",
+        "type": "dropdown",
+        "pick": [
+          "Mold spore",
+          "Algae"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Pest Infestation:",
+        "type": "dropdown",
+        "pick": [
+          "Silverfish",
+          "Drywood termites",
+          "Book lice",
+          "Biscuit beetles"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Rusted metal fastener:",
+        "type": "dropdown",
+        "pick": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Type of adhesive tape:",
+        "type": "dropdown",
+        "pick": [
+          "Sellotape",
+          "Scotch tape",
+          "Masking tape",
+          "Water activate tape"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Previous cons//restoration:",
+        "type": "dropdown",
+        "pick": [
+          "Previous cleaning",
+          "Previous repairs",
+          "Previous retouching"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Cause of damages:",
+        "type": "dropdown",
+        "pick": [
+          "Light and UV",
+          "RH",
+          "Pollutants",
+          "Pests",
+          "Mold",
+          "Storage",
+          "Handling",
+          "Disasters"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Others:",
+        "type": "textarea",
+        "pick": ""
+      }
+    ]
+  },
+  {
+    "name": "supportconditionverso1",
+    "desc": "Text block's Condition",
+    "items": [
+      {
+        "section": "textblockcondition",
+        "name": "Same as the Recto",
+        "type": "dropdown",
+        "pick": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "section": "textblockcondition",
+        "name": "No specify:",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "textblockcondition",
+        "name": "Inscription:",
+        "type": "textarea",
+        "pick": ""
+      }
+    ]
+  },
+  {
+    "name": "mediacotingcondition",
+    "desc": "Media's and Coating Condition",
+    "items": [
+      {
+        "section": "textblockcondition",
+        "name": "Nature surface dirt",
+        "type": "dropdown",
+        "pick": [
+          "Dust",
+          "Soiled",
+          "Deposit",
+          "Soot",
+          "Grime",
+          "Accretion"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Cleaving priming // ground // interlayer:",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "binding",
+        "name": "Fading",
+        "type": "dropdown",
+        "pick": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Sensibility to water:",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "binding",
+        "name": "Abrasion:",
+        "type": "dropdown",
+        "pick": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Alteration of the paper by the ink:",
+        "type": "dropdown",
+        "pick": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Media transfer:",
+        "type": "dropdown",
+        "pick": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Diffusion in the support:",
+        "type": "dropdown",
+        "pick": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Contamination:",
+        "type": "dropdown",
+        "pick": [
+          "Mold spore",
+          "Algae"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Previous cons//restoration:",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "name": "Cause of damages",
+        "type": "dropdown",
+        "pick": [
+          "Light and UV",
+          "RH",
+          "Pollutants",
+          "Pests",
+          "Mold",
+          "Storage",
+          "Handling",
+          "Disasters"
+        ]
+      },
+      {
+        "name": "Other",
+        "type": "textarea",
+        "pick": ""
+      }
+    ]
+  },
+  {
+    "name": "frameandalbums",
+    "desc": "Frame and Album",
+    "items": [
+      {
+        "name": "Mat's Condition:",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "name": "Inadequate mat:",
+        "type": "dropdown",
+        "pick": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "name": "Frame's Condition:",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "name": "Album's Condition",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "name": "Inadequate album:",
+        "type": "dropdown",
+        "pick": [
+          "Yes",
+          "No"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "recommconservation",
+    "desc": "Recommendation: Conservation, Rehousing, Handling",
+    "items": [
+      {
+        "name": "Cleaning",
+        "type": "dropdown",
+        "pick": [
+          "Brush",
+          "Air bulb",
+          "Vacuum",
+          "Remove rusty staples or paper clips",
+          "Removed from album"
+        ]
+      },
+      {
+        "name": "Flattening",
+        "type": "dropdown",
+        "pick": [
+          "Humidify in humid chamber",
+          "Spray deionized water",
+          "Thin brush and water on folds",
+          "On press"
+        ]
+      },
+      {
+        "name": "Repairs",
+        "type": "textarea",
+        "pick": "",
+        "default": "Thin Japanese tissue on tears"
+      },
+      {
+        "name": "Rehousing",
+        "type": "textarea",
+        "pick": "",
+        "default": "Contain in a box"
+      },
+      {
+        "name": "Storage",
+        "type": "text",
+        "pick": "",
+        "default": "Shelf"
+      },
+      {
+        "name": "Handling",
+        "type": "text",
+        "pick": "",
+        "default": "With a lot of care,  Extremely fragile handling only if necessary"
+      }
+    ]
+  },
+  {
+    "name": "conser",
+    "desc": "Conservation Restoration",
+    "items": [
+      {
+        "name": "Date",
+        "type": "date",
+        "pick": ""
+      },
+      {
+        "name": "Description of the work done",
+        "type": "textarea",
+        "pick": ""
+      }
+    ]
+  }
+]

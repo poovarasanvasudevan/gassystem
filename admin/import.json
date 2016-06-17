@@ -1,0 +1,547 @@
+[
+  {
+    "name": "general",
+    "desc": "General",
+    "items": [
+      {
+        "section": "general",
+        "name": "Archive Code",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Identification",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Title",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Author",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Number of parts",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Date of edition",
+        "type": "date",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Description",
+        "type": "textarea",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Covering Materiel  description (nature)",
+        "type": "dropdown",
+        "pick": [
+          "Leather",
+          "Synthetic",
+          "Paper",
+          "Vellum",
+          "Wood",
+          "Cloth",
+          "Other"
+        ]
+      },
+      {
+        "section": "general",
+        "name": "Paper description (nature)",
+        "type": "dropdown",
+        "pick": [
+          "Mechanical paper",
+          "Hand maid paper",
+          "Tracing paper",
+          "Wax paper",
+          "Blotting paper",
+          "Carbon paper",
+          "Greaseproof paper"
+        ]
+      },
+      {
+        "section": "general",
+        "name": "Biding description",
+        "type": "dropdown",
+        "pick": [
+          "Glue",
+          "Stitch",
+          "Stapler",
+          "Spine",
+          "Other"
+        ]
+      },
+      {
+        "section": "general",
+        "name": "Dimensions (cm):",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Medias description (Ink, inscriptions) ",
+        "type": "dropdown",
+        "pick": [
+          "Typewritten",
+          "Handwriting",
+          "Printing"
+        ]
+      },
+      {
+        "section": "general",
+        "name": "Auxiliary support description",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Auxiliary support dimensions (cm)",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Fasteners",
+        "type": "dropdown",
+        "pick": [
+          "Staples",
+          "Pins",
+          "Paper clips"
+        ]
+      },
+      {
+        "section": "general",
+        "name": "Number of pages",
+        "type": "number",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Incoming condition of storage",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Photograph",
+        "type": "dropdown",
+        "pick": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "section": "general",
+        "name": "Name of donator # Source",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Address#e-mail",
+        "type": "textarea",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "General condition:",
+        "type": "dropdown",
+        "pick": [
+          "Excellent",
+          "Good",
+          "Fair",
+          "Poor need immediate treatment"
+        ]
+      },
+      {
+        "section": "general",
+        "name": "Condition report done by",
+        "type": "text",
+        "pick": "default",
+        "default": "name"
+      },
+      {
+        "section": "general",
+        "name": "Condition report date",
+        "type": "date",
+        "pick": "default",
+        "default": "date"
+      },
+      {
+        "section": "general",
+        "name": "Diagram",
+        "type": "textarea",
+        "pick": ""
+      },
+      {
+        "section": "general",
+        "name": "Comments",
+        "type": "textarea",
+        "pick": ""
+      }
+    ]
+  },
+  {
+    "name": "binding",
+    "desc": "Biding's and Covering's Condition",
+    "items": [
+      {
+        "section": "binding",
+        "name": "Nature surface dirt",
+        "type": "dropdown",
+        "pick": [
+          "Dust",
+          "Soiled",
+          "Deposit",
+          "Soot",
+          "Grime",
+          "Accretion"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Rip (description and localization)",
+        "type": "dropdown",
+        "pick": [
+          "Tears or splits",
+          "Edge damage",
+          "Creases",
+          "Wrinkles",
+          "Folds"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Loss",
+        "type": "dropdown",
+        "pick": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Distortion",
+        "type": "dropdown",
+        "pick": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Wear",
+        "type": "dropdown",
+        "pick": [
+          "Intense use",
+          "Normal",
+          "None"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Biding's condition",
+        "type": "dropdown",
+        "pick": [
+          "Weak sewing",
+          "Metal Corrosion"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "revious cons#restoration",
+        "type": "text",
+        "pick": ""
+      },
+      {
+        "section": "binding",
+        "name": "Other",
+        "type": "textarea",
+        "pick": ""
+      }
+    ]
+  },
+  {
+    "name": "textblockcondition",
+    "desc": "Text block's Condition",
+    "items": [
+      {
+        "section": "textblockcondition",
+        "name": "Nature surface dirt",
+        "type": "dropdown",
+        "pick": [
+          "Dust",
+          "Soiled",
+          "Deposit",
+          "Soot",
+          "Grime",
+          "Accretion"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Rip (description and localization)",
+        "type": "dropdown",
+        "pick": [
+          "Tears or splits",
+          "Edge damage",
+          "Creases",
+          "Wrinkles",
+          "Folds"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Loss",
+        "type": "dropdown",
+        "pick": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Wear",
+        "type": "dropdown",
+        "pick": [
+          "Intense use",
+          "Normal",
+          "None"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Brittle paper",
+        "type": "dropdown",
+        "pick": [
+          "Extremely fragile",
+          "Fragile",
+          "No"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Surface appearance",
+        "type": "dropdown",
+        "pick": [
+          "Staining",
+          "Yellowing",
+          "Foxing"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Contamination",
+        "type": "dropdown",
+        "pick": [
+          "Mold spore",
+          "Algae"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Pest Infestation",
+        "type": "dropdown",
+        "pick": [
+          "Silverfish",
+          "Drywood termites",
+          "Book lice",
+          "Biscuit beetles"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Damage by pest",
+        "type": "dropdown",
+        "pick": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "section": "binding",
+        "name": "Type of adhesive tape",
+        "type": "dropdown",
+        "pick": [
+          "cotch tape",
+          "Masking tape",
+          "Water activate tape",
+          "Sellotape"
+        ]
+      },
+      {
+        "name": "Cause of damages",
+        "type": "dropdown",
+        "pick": [
+          "Light and UV",
+          "RH",
+          "Pollutants",
+          "Pests",
+          "Mold",
+          "Storage",
+          "Handling",
+          "Disasters"
+        ]
+      },
+      {
+        "name": "Date",
+        "type": "date",
+        "pick": "",
+        "default": "date"
+      },
+      {
+        "name": "Other",
+        "type": "textarea",
+        "pick": ""
+      }
+    ]
+  },
+  {
+    "name": "mediacondition",
+    "desc": "Media Condition",
+    "items": [
+      {
+        "name": "Fading",
+        "type": "dropdown",
+        "pick": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "name": "Media transfer",
+        "type": "textarea",
+        "pick": ""
+      },
+      {
+        "name": "Sensibility to the water",
+        "type": "textarea",
+        "pick": ""
+      },
+      {
+        "name": "Abrasion",
+        "type": "dropdown",
+        "pick": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "name": "Alteration of the paper by the ink",
+        "type": "dropdown",
+        "pick": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "name": "Diffusion in the support",
+        "type": "dropdown",
+        "pick": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "name": "Previous cons,restoration",
+        "type": "textarea",
+        "pick": ""
+      },
+      {
+        "name": "Cause of damages",
+        "type": "dropdown",
+        "pick": [
+          "Light and UV",
+          "RH",
+          "Pollutants",
+          "Pests",
+          "Mold",
+          "Storage",
+          "Handling",
+          "Disasters"
+        ]
+      },
+      {
+        "name": "Date",
+        "type": "date",
+        "pick": "",
+        "default": "date"
+      },
+      {
+        "name": "Other",
+        "type": "textarea",
+        "pick": ""
+      }
+    ]
+  },
+  {
+    "name": "recomm",
+    "desc": "Recommendation: Conservation, Rehousing, Handling",
+    "items": [
+      {
+        "name": "Cleaning",
+        "type": "dropdown",
+        "pick": [
+          "Brush",
+          "Air bulb",
+          "Vacuum"
+        ]
+      },
+      {
+        "name": "Biding",
+        "type": "textarea",
+        "pick": "",
+        "default": "Send to a professional"
+      },
+      {
+        "name": "Repairs",
+        "type": "textarea",
+        "pick": "",
+        "default": "Thin Japanese tissue on tears"
+      },
+      {
+        "name": "Rehousing",
+        "type": "textarea",
+        "pick": "",
+        "default": "Contain in a box"
+      },
+      {
+        "name": "Shelf",
+        "type": "text",
+        "pick": "",
+        "default": "Shelf"
+      },
+      {
+        "name": "Handling",
+        "type": "text",
+        "pick": "",
+        "default": "With a lot of care,  Extremely fragile handling only if necessary"
+      }
+    ]
+  },
+  {
+    "name": "comments",
+    "desc": "Comments",
+    "items": [
+      {
+        "name": "Comments",
+        "type": "textarea",
+        "pick": ""
+      }
+    ]
+  }
+]

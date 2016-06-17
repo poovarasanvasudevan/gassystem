@@ -1,0 +1,3 @@
+ALTER TABLE user
+ADD COLUMN `login_attempts` SMALLINT(6) NOT NULL DEFAULT 0
+AFTER `EmailId`;

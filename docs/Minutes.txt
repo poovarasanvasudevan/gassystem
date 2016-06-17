@@ -1,0 +1,6 @@
+letter coding
+scan only multi page tiff
+image stiching - to convert old images
+preview for images in artefact search screen
+
+file server - for images and preview
