@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9df0c678-d2ce-457d-ad2b-3ac07e106289" name="Default" comment="" />
+    <list default="true" id="9df0c678-d2ce-457d-ad2b-3ac07e106289" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php" afterPath="$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/patch.sql" afterPath="$PROJECT_DIR$/database/patch.sql" />
+    </list>
     <ignored path="gar.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -26,6 +30,32 @@
         <option name="myItemId" />
         <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
       </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - gas@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="gas" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - gas@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="gas" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="conditionalreport" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
     </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
@@ -37,8 +67,18 @@
       <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e8c51426-652d-40e8-8e12-2786ed7c2d18/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.5">
-              <caret line="189" column="24" selection-start-line="179" selection-start-column="0" selection-end-line="189" selection-end-column="24" />
+            <state vertical-scroll-proportion="-12.0">
+              <caret line="194" column="0" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="patch.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/patch.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -61,33 +101,33 @@
       <file leaf-file-name="conditionalReport.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.1">
-              <caret line="463" column="118" selection-start-line="463" selection-start-column="88" selection-end-line="463" selection-end-column="118" />
+            <state vertical-scroll-proportion="-12.4">
+              <caret line="136" column="30" selection-start-line="136" selection-start-column="30" selection-end-line="136" selection-end-column="30" />
               <folding>
-                <marker date="1466149680039" expanded="true" signature="9911:9977" placeholder="SELECT * FRO..maintenancecycle..." />
-                <marker date="1466149680039" expanded="true" signature="10541:10853" placeholder="..." />
-                <marker date="1466149680039" expanded="true" signature="10600:10721" placeholder="..." />
-                <marker date="1466149680039" expanded="true" signature="10648:10699" placeholder="..." />
-                <marker date="1466149680039" expanded="true" signature="10759:10853" placeholder="..." />
-                <marker date="1466149680039" expanded="true" signature="10840:10853" placeholder="..." />
-                <marker date="1466149680039" expanded="true" signature="10900:10955" placeholder="select Locat..ArchiveLocation..." />
-                <marker date="1466149680039" expanded="true" signature="11949:12196" placeholder="..." />
-                <marker date="1466149680039" expanded="true" signature="12232:12497" placeholder="..." />
-                <marker date="1466149680039" expanded="true" signature="14103:15388" placeholder="select t.Tas..tasklist..." />
-                <marker date="1466149680039" expanded="true" signature="16543:16615" placeholder="select Artef..artefact..." />
-                <marker date="1466149680039" expanded="true" signature="17271:18260" placeholder="SELECT cr.se..cr_section..." />
-                <marker date="1466149680039" expanded="true" signature="25193:25438" placeholder="..." />
-                <marker date="1466149680039" expanded="true" signature="25359:25433" placeholder="..." />
+                <marker date="1466164369747" expanded="true" signature="9913:9979" placeholder="SELECT * FRO..maintenancecycle..." />
+                <marker date="1466164369747" expanded="true" signature="10543:10855" placeholder="..." />
+                <marker date="1466164369747" expanded="true" signature="10602:10723" placeholder="..." />
+                <marker date="1466164369747" expanded="true" signature="10650:10701" placeholder="..." />
+                <marker date="1466164369747" expanded="true" signature="10761:10855" placeholder="..." />
+                <marker date="1466164369747" expanded="true" signature="10842:10855" placeholder="..." />
+                <marker date="1466164369747" expanded="true" signature="10902:10957" placeholder="select Locat..ArchiveLocation..." />
+                <marker date="1466164369747" expanded="true" signature="11951:12198" placeholder="..." />
+                <marker date="1466164369747" expanded="true" signature="12234:12499" placeholder="..." />
+                <marker date="1466164369747" expanded="true" signature="14105:15390" placeholder="select t.Tas..tasklist..." />
+                <marker date="1466164369747" expanded="true" signature="16545:16617" placeholder="select Artef..artefact..." />
+                <marker date="1466164369747" expanded="true" signature="17273:18262" placeholder="SELECT cr.se..cr_section..." />
+                <marker date="1466164369747" expanded="true" signature="25195:25440" placeholder="..." />
+                <marker date="1466164369747" expanded="true" signature="25361:25435" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cListReport.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cListReport.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/screens/reports/cListReport.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.574359">
-              <caret line="115" column="42" selection-start-line="115" selection-start-column="42" selection-end-line="115" selection-end-column="42" />
+            <state vertical-scroll-proportion="-8.3">
+              <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
               <folding>
                 <marker date="1466157908023" expanded="true" signature="391:832" placeholder="SELECT artef..tasklist..." />
                 <marker date="1466157908023" expanded="true" signature="1912:2275" placeholder="SELECT cr.Ch..conditionalreport..." />
@@ -140,17 +180,17 @@
         <option value="$PROJECT_DIR$/screens/reports/conditionalreport.php" />
         <option value="$PROJECT_DIR$/js/artefact/reports.js" />
         <option value="$PROJECT_DIR$/screens/definition/edit.php" />
-        <option value="$PROJECT_DIR$/database/patch.sql" />
         <option value="$PROJECT_DIR$/screens/conditionalReport/upload.php" />
         <option value="$PROJECT_DIR$/screens/conditionalReport/saveReport.php" />
         <option value="$PROJECT_DIR$/admin/book.sql" />
         <option value="$PROJECT_DIR$/admin/import.php" />
-        <option value="$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php" />
         <option value="$PROJECT_DIR$/admin/import.json" />
         <option value="$PROJECT_DIR$/admin/photos.json" />
         <option value="$PROJECT_DIR$/admin/photo.php" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e8c51426-652d-40e8-8e12-2786ed7c2d18/console.sql" />
         <option value="$PROJECT_DIR$/screens/reports/cListReport.php" />
+        <option value="$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e8c51426-652d-40e8-8e12-2786ed7c2d18/console.sql" />
+        <option value="$PROJECT_DIR$/database/patch.sql" />
       </list>
     </option>
   </component>
@@ -211,6 +251,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="GAS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GAS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -291,12 +345,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="24" width="1871" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.421875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33798283" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.05041096" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38465753" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -304,7 +358,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3890411" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16219178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -729,14 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e8c51426-652d-40e8-8e12-2786ed7c2d18/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.5">
-          <caret line="189" column="24" selection-start-line="179" selection-start-column="0" selection-end-line="189" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/import.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-20.9">
@@ -749,37 +795,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.1">
-          <caret line="463" column="118" selection-start-line="463" selection-start-column="88" selection-end-line="463" selection-end-column="118" />
-          <folding>
-            <marker date="1466149680039" expanded="true" signature="9911:9977" placeholder="SELECT * FRO..maintenancecycle..." />
-            <marker date="1466149680039" expanded="true" signature="10541:10853" placeholder="..." />
-            <marker date="1466149680039" expanded="true" signature="10600:10721" placeholder="..." />
-            <marker date="1466149680039" expanded="true" signature="10648:10699" placeholder="..." />
-            <marker date="1466149680039" expanded="true" signature="10759:10853" placeholder="..." />
-            <marker date="1466149680039" expanded="true" signature="10840:10853" placeholder="..." />
-            <marker date="1466149680039" expanded="true" signature="10900:10955" placeholder="select Locat..ArchiveLocation..." />
-            <marker date="1466149680039" expanded="true" signature="11949:12196" placeholder="..." />
-            <marker date="1466149680039" expanded="true" signature="12232:12497" placeholder="..." />
-            <marker date="1466149680039" expanded="true" signature="14103:15388" placeholder="select t.Tas..tasklist..." />
-            <marker date="1466149680039" expanded="true" signature="16543:16615" placeholder="select Artef..artefact..." />
-            <marker date="1466149680039" expanded="true" signature="17271:18260" placeholder="SELECT cr.se..cr_section..." />
-            <marker date="1466149680039" expanded="true" signature="25193:25438" placeholder="..." />
-            <marker date="1466149680039" expanded="true" signature="25359:25433" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/screens/reports/cListReport.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.574359">
-          <caret line="115" column="42" selection-start-line="115" selection-start-column="42" selection-end-line="115" selection-end-column="42" />
+        <state vertical-scroll-proportion="-8.3">
+          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
           <folding>
             <marker date="1466157908023" expanded="true" signature="391:832" placeholder="SELECT artef..tasklist..." />
             <marker date="1466157908023" expanded="true" signature="1912:2275" placeholder="SELECT cr.Ch..conditionalreport..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.4">
+          <caret line="136" column="30" selection-start-line="136" selection-start-column="30" selection-end-line="136" selection-end-column="30" />
+          <folding>
+            <marker date="1466164369747" expanded="true" signature="9913:9979" placeholder="SELECT * FRO..maintenancecycle..." />
+            <marker date="1466164369747" expanded="true" signature="10543:10855" placeholder="..." />
+            <marker date="1466164369747" expanded="true" signature="10602:10723" placeholder="..." />
+            <marker date="1466164369747" expanded="true" signature="10650:10701" placeholder="..." />
+            <marker date="1466164369747" expanded="true" signature="10761:10855" placeholder="..." />
+            <marker date="1466164369747" expanded="true" signature="10842:10855" placeholder="..." />
+            <marker date="1466164369747" expanded="true" signature="10902:10957" placeholder="select Locat..ArchiveLocation..." />
+            <marker date="1466164369747" expanded="true" signature="11951:12198" placeholder="..." />
+            <marker date="1466164369747" expanded="true" signature="12234:12499" placeholder="..." />
+            <marker date="1466164369747" expanded="true" signature="14105:15390" placeholder="select t.Tas..tasklist..." />
+            <marker date="1466164369747" expanded="true" signature="16545:16617" placeholder="select Artef..artefact..." />
+            <marker date="1466164369747" expanded="true" signature="17273:18262" placeholder="SELECT cr.se..cr_section..." />
+            <marker date="1466164369747" expanded="true" signature="25195:25440" placeholder="..." />
+            <marker date="1466164369747" expanded="true" signature="25361:25435" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e8c51426-652d-40e8-8e12-2786ed7c2d18/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.0">
+          <caret line="194" column="0" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/patch.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>

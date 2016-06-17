@@ -242,14 +242,6 @@
       <column name="Dimension" sqlType="VARCHAR" precision="100" scale="0" nullable="true" jdbcType="12"/>
       <column name="VisibleStatus" sqlType="VARCHAR" precision="5" scale="0" nullable="true" jdbcType="12"/>
     </table>
-    <table name="cache_cr_image" schema="" catalog="gas" type="TABLE">
-      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
-      <column name="checklistfk" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
-      <column name="resultvalue" sqlType="VARCHAR" precision="10000" scale="0" nullable="true" jdbcType="12"/>
-      <column name="isupdated" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" def="MA=="/>
-      <column name="created" sqlType="DATETIME" precision="19" scale="0" nullable="true" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA="/>
-      <primary-key name="PRIMARY" columns="id"/>
-    </table>
     <table name="checklist" schema="" catalog="gas" type="TABLE">
       <column name="CheckListPK" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
       <column name="ArtefactTypeCode" sqlType="VARCHAR" precision="10" scale="0" nullable="true" jdbcType="12"/>
@@ -272,7 +264,7 @@
       <column name="ConditionalReportPK" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
       <column name="CheckListFK" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
       <column name="TaskListFK" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
-      <column name="Result" sqlType="VARCHAR" precision="100" scale="0" nullable="true" jdbcType="12"/>
+      <column name="Result" sqlType="LONGTEXT" precision="2147483647" scale="0" nullable="true" jdbcType="-1"/>
       <column name="CreatedBy" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
       <column name="CreatedDate" sqlType="DATETIME" precision="19" scale="0" nullable="false" jdbcType="93"/>
       <column name="ModifiedBy" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>

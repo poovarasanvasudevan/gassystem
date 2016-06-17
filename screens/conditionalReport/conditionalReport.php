@@ -134,7 +134,7 @@ $pages = $db->getPages($_SESSION ['userPK']);
                     success: function (data) {
                         if (data == 'success') {
                             $.growl.notice({message: "Report saved succesfully..!", size: 'large'});
-                            window.location = "../dashboard/dashboard.php";
+                            //window.location = "../dashboard/dashboard.php";
                         } else {
                             $.growl.error({message: "failed to save report..!", size: 'large'});
                             //$('#status').html("<div class='alert alert-danger' role='alert'>" + data + "</div>");
