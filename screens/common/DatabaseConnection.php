@@ -24,7 +24,7 @@ class DatabaseConnection
      * */
     function createConnection()
     {
-        $this->connection = new mysqli("127.0.0.1", "root", 'poosan', "gas");
+        $this->connection = new mysqli("127.0.0.1", "root", 'poosan', "gar");
         if (!$this->connection->connect_error) {
             return $this->connection;
         } else

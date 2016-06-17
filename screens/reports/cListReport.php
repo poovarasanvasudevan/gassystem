@@ -114,11 +114,11 @@ for ($j = 0; $j < sizeof($uniqueSection); $j++) {
         if ($allArray[$i]['sectionname'] == $current) {
             $pdf->SetFillColor(211, 211, 211);
             $pdf->SetFont('Arial', 'B', 11);
-            $pdf->Cell(95, 10, $allArray[$i]['CheckListItem'], 1,0,'',1);
+            $pdf->Cell(95, 10, $allArray[$i]['CheckListItem'], 1,0,'',0);
 
             $pdf->SetFillColor(255, 255, 255);
             $pdf->SetFont('Arial', '', 11);
-            $pdf->Cell(95, 10, $allArray[$i]['Result'], 1);
+            $pdf->MultiCell(95, 10, $allArray[$i]['Result'], 0);
 
             $pdf->Ln(10);
 
