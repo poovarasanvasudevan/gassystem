@@ -2,9 +2,249 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df0c678-d2ce-457d-ad2b-3ac07e106289" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php" afterPath="$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/patch.sql" afterPath="$PROJECT_DIR$/database/patch.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSans-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSans-BoldOblique.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSans-Oblique.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSans.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSansMono-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSansMono-BoldOblique.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSansMono-Oblique.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSansMono.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSerif-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSerif-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSerif-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSerif.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/sample-fonts/IntelClear-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/res/broken_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/tests/Dompdf/Tests/_files/jamaica.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Positioner/Absolute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/AbstractFrameDecorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameReflower/AbstractFrameReflower.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Positioner/AbstractPositioner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Renderer/AbstractRenderer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/AbstractTag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/AdobeFontMetrics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Anchor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Css/AttributeTranslator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Autoloader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Autoloader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/tests/Dompdf/Tests/AutoloaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/BinaryStream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/Block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameReflower/Block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Positioner/Block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Renderer/Block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Adapter/CPDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Surface/CPdf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Image/Cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Canvas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/CanvasFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Cellmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Circle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/ClipPath.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/TrueType/Collection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Css/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Courier-Bold.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Courier-BoldOblique.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Courier-Oblique.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Courier.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/Cpdf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/html5lib/Data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/DefaultStyle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSans-Bold.ufm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSans-BoldOblique.ufm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSans-Oblique.ufm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSans.ufm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSansMono-Bold.ufm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSansMono-BoldOblique.ufm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSansMono-Oblique.ufm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSansMono.ufm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSerif-Bold.ufm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSerif-BoldItalic.ufm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSerif-Italic.ufm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/DejaVuSerif.ufm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/DirectoryEntry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Document.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Dompdf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/tests/Dompdf/Tests/DompdfTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Ellipse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/EncodingMap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Frame/Factory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/EOT/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/OpenType/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/TrueType/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/WOFF/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Positioner/Fixed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FontMetrics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Exception/FontNotFoundException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/tests/FontLib/FontTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Frame.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Frame/FrameList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Frame/FrameListIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Frame/FrameTree.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Frame/FrameTreeIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Frame/FrameTreeList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Adapter/GD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/EOT/Header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/TrueType/Header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/WOFF/Header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Helpers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/tests/Dompdf/Tests/HelpersTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Helvetica-Bold.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Helvetica-BoldOblique.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Helvetica-Oblique.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Helvetica.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameReflower/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Renderer/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Exception/ImageException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/Inline.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameReflower/Inline.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Positioner/Inline.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Renderer/Inline.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/html5lib/InputStream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/JavascriptEmbedder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/LICENSE.LGPL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Line.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/LineBox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/LinearGradient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/ListBullet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameReflower/ListBullet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Positioner/ListBullet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Renderer/ListBullet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/ListBulletImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/NullFrameDecorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameReflower/NullFrameReflower.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Positioner/NullPositioner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/tests/Dompdf/Tests/OptionsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Glyph/Outline.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Glyph/OutlineComponent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Glyph/OutlineComposite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Glyph/OutlineSimple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Adapter/PDFLib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/Page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameReflower/Page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/html5lib/Parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Path.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/PhpEvaluator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Polygon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Polyline.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/RadialGradient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Rect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Renderer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Shape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Gradient/Stop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Stop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Style.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Css/Style.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/StyleTag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/tests/Svg/StyleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Css/Stylesheet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Surface/SurfaceGmagick.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Surface/SurfaceInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Symbol.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameReflower/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/TableCell.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameReflower/TableCell.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Positioner/TableCell.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Renderer/TableCell.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/OpenType/TableDirectoryEntry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/TrueType/TableDirectoryEntry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/WOFF/TableDirectoryEntry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/TableRow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameReflower/TableRow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Positioner/TableRow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/TableRowGroup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameReflower/TableRowGroup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Renderer/TableRowGroup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameDecorator/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/FrameReflower/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/src/Renderer/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Times-Bold.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Times-BoldItalic.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Times-Italic.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/Times-Roman.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/html5lib/Tokenizer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/html5lib/TreeBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/UseTag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/ZapfDingbats.afm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/adobe-standard-encoding.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/autoload.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/tests/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/pdf/cListReport.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Type/cmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/cp1250.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/cp1251.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/cp1252.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/cp1253.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/cp1254.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/cp1255.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/cp1257.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/cp1258.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/cp874.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/dompdf_font_family_cache.dist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Type/glyf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Type/head.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Type/hhea.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Type/hmtx.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/res/html.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/iso-8859-1.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/iso-8859-11.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/iso-8859-15.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/iso-8859-16.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/iso-8859-2.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/iso-8859-4.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/iso-8859-5.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/iso-8859-7.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/iso-8859-9.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Type/kern.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/koi8-r.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/maps/koi8-u.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Type/loca.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Type/maxp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/fonts/mustRead.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Type/name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Type/nameRecord.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/html5lib/named-character-references.ser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Type/os2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/Table/Type/post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screens/reports/cListReport.php" afterPath="$PROJECT_DIR$/screens/reports/cListReport.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screens/definition/edit.php" afterPath="$PROJECT_DIR$/screens/definition/edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screens/conditionalReport/saveReport.php" afterPath="$PROJECT_DIR$/screens/conditionalReport/saveReport.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,18 +307,8 @@
       <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e8c51426-652d-40e8-8e12-2786ed7c2d18/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.0">
-              <caret line="194" column="0" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="patch.sql" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/database/patch.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+            <state vertical-scroll-proportion="-6.4">
+              <caret line="197" column="13" selection-start-line="197" selection-start-column="2" selection-end-line="197" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -104,21 +334,45 @@
             <state vertical-scroll-proportion="-12.4">
               <caret line="136" column="30" selection-start-line="136" selection-start-column="30" selection-end-line="136" selection-end-column="30" />
               <folding>
-                <marker date="1466164369747" expanded="true" signature="9913:9979" placeholder="SELECT * FRO..maintenancecycle..." />
-                <marker date="1466164369747" expanded="true" signature="10543:10855" placeholder="..." />
-                <marker date="1466164369747" expanded="true" signature="10602:10723" placeholder="..." />
-                <marker date="1466164369747" expanded="true" signature="10650:10701" placeholder="..." />
-                <marker date="1466164369747" expanded="true" signature="10761:10855" placeholder="..." />
-                <marker date="1466164369747" expanded="true" signature="10842:10855" placeholder="..." />
-                <marker date="1466164369747" expanded="true" signature="10902:10957" placeholder="select Locat..ArchiveLocation..." />
-                <marker date="1466164369747" expanded="true" signature="11951:12198" placeholder="..." />
-                <marker date="1466164369747" expanded="true" signature="12234:12499" placeholder="..." />
-                <marker date="1466164369747" expanded="true" signature="14105:15390" placeholder="select t.Tas..tasklist..." />
-                <marker date="1466164369747" expanded="true" signature="16545:16617" placeholder="select Artef..artefact..." />
-                <marker date="1466164369747" expanded="true" signature="17273:18262" placeholder="SELECT cr.se..cr_section..." />
-                <marker date="1466164369747" expanded="true" signature="25195:25440" placeholder="..." />
-                <marker date="1466164369747" expanded="true" signature="25361:25435" placeholder="..." />
+                <marker date="1466164828919" expanded="true" signature="9913:9979" placeholder="SELECT * FRO..maintenancecycle..." />
+                <marker date="1466164828919" expanded="true" signature="10543:10855" placeholder="..." />
+                <marker date="1466164828919" expanded="true" signature="10602:10723" placeholder="..." />
+                <marker date="1466164828919" expanded="true" signature="10650:10701" placeholder="..." />
+                <marker date="1466164828919" expanded="true" signature="10761:10855" placeholder="..." />
+                <marker date="1466164828919" expanded="true" signature="10842:10855" placeholder="..." />
+                <marker date="1466164828919" expanded="true" signature="10902:10957" placeholder="select Locat..ArchiveLocation..." />
+                <marker date="1466164828919" expanded="true" signature="11951:12198" placeholder="..." />
+                <marker date="1466164828919" expanded="true" signature="12234:12499" placeholder="..." />
+                <marker date="1466164828919" expanded="true" signature="14105:15390" placeholder="select t.Tas..tasklist..." />
+                <marker date="1466164828919" expanded="true" signature="16545:16617" placeholder="select Artef..artefact..." />
+                <marker date="1466164828919" expanded="true" signature="17273:18262" placeholder="SELECT cr.se..cr_section..." />
+                <marker date="1466164828919" expanded="true" signature="25195:25440" placeholder="..." />
+                <marker date="1466164828919" expanded="true" signature="25361:25435" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="saveReport.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screens/conditionalReport/saveReport.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.1">
+              <caret line="68" column="10" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+              <folding>
+                <marker date="1466165035308" expanded="true" signature="585:813" placeholder="INSERT INTO ..." />
+                <marker date="1466165035308" expanded="true" signature="1116:1380" placeholder="INSERT INTO ..." />
+                <marker date="1466165035308" expanded="true" signature="1485:1583" placeholder="UPDATE sched..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cListReport1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screens/reports/cListReport1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.8">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -126,11 +380,60 @@
       <file leaf-file-name="cListReport.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/screens/reports/cListReport.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.3">
-              <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.0">
+              <caret line="101" column="13" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
               <folding>
-                <marker date="1466157908023" expanded="true" signature="391:832" placeholder="SELECT artef..tasklist..." />
-                <marker date="1466157908023" expanded="true" signature="1912:2275" placeholder="SELECT cr.Ch..conditionalreport..." />
+                <marker date="1466166886350" expanded="true" signature="391:832" placeholder="SELECT artef..tasklist..." />
+                <marker date="1466166886350" expanded="true" signature="1912:2275" placeholder="SELECT cr.Ch..conditionalreport..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cListReport.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screens/pdf/cListReport.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.2">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+              <folding>
+                <marker date="1466166102000" expanded="true" signature="394:835" placeholder="SELECT artef..tasklist..." />
+                <marker date="1466166102000" expanded="true" signature="1583:1968" placeholder="SELECT cr.Ch..conditionalreport..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autoload.inc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screens/reports/dom/autoload.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.0">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parser.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screens/reports/dom/lib/html5lib/Parser.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.4">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/screens/definition/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14">
+              <caret line="306" column="26" selection-start-line="306" selection-start-column="26" selection-end-line="306" selection-end-column="26" />
+              <folding>
+                <marker date="1466479528337" expanded="true" signature="7519:7530" placeholder="..." />
+                <marker date="1466479528337" expanded="true" signature="7619:7630" placeholder="..." />
+                <marker date="1466479528337" expanded="true" signature="7776:7787" placeholder="..." />
+                <marker date="1466479528337" expanded="true" signature="24514:24525" placeholder="..." />
+                <marker date="1466479528337" expanded="true" signature="24614:24625" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -179,18 +482,20 @@
         <option value="$PROJECT_DIR$/screens/reports/Reports.php" />
         <option value="$PROJECT_DIR$/screens/reports/conditionalreport.php" />
         <option value="$PROJECT_DIR$/js/artefact/reports.js" />
-        <option value="$PROJECT_DIR$/screens/definition/edit.php" />
         <option value="$PROJECT_DIR$/screens/conditionalReport/upload.php" />
-        <option value="$PROJECT_DIR$/screens/conditionalReport/saveReport.php" />
         <option value="$PROJECT_DIR$/admin/book.sql" />
         <option value="$PROJECT_DIR$/admin/import.php" />
         <option value="$PROJECT_DIR$/admin/import.json" />
         <option value="$PROJECT_DIR$/admin/photos.json" />
         <option value="$PROJECT_DIR$/admin/photo.php" />
-        <option value="$PROJECT_DIR$/screens/reports/cListReport.php" />
-        <option value="$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e8c51426-652d-40e8-8e12-2786ed7c2d18/console.sql" />
         <option value="$PROJECT_DIR$/database/patch.sql" />
+        <option value="$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php" />
+        <option value="$PROJECT_DIR$/screens/conditionalReport/saveReport.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e8c51426-652d-40e8-8e12-2786ed7c2d18/console.sql" />
+        <option value="$PROJECT_DIR$/screens/reports/dom/lib/html5lib/Parser.php" />
+        <option value="$PROJECT_DIR$/screens/reports/dom/autoload.inc.php" />
+        <option value="$PROJECT_DIR$/screens/reports/cListReport.php" />
+        <option value="$PROJECT_DIR$/screens/definition/edit.php" />
       </list>
     </option>
   </component>
@@ -264,7 +569,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
+              <option name="myItemId" value="screens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GAS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="definition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,10 +610,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screens/pdf" />
+      <recent name="$PROJECT_DIR$/screens/reports/dom/lib" />
+      <recent name="$PROJECT_DIR$/screens/reports/dom" />
       <recent name="$PROJECT_DIR$/admin" />
       <recent name="$PROJECT_DIR$/screens/reports" />
-      <recent name="$PROJECT_DIR$/pdf" />
-      <recent name="$PROJECT_DIR$/admin/angular" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Built-in Web Server.Unnamed">
@@ -347,10 +671,10 @@
     <frame x="49" y="24" width="1871" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33798283" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3375" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38465753" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38465753" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -358,8 +682,8 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16219178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36219177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -384,55 +708,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2771739">
-          <caret line="4996" column="1" selection-start-line="4922" selection-start-column="0" selection-end-line="4996" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/css/icons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/template/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30367073">
-          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.694915">
-          <caret line="2558" column="21" selection-start-line="2558" selection-start-column="21" selection-end-line="2558" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/template/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1868743">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.366667">
-          <caret line="99" column="1" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/logics/logout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25027084">
@@ -647,20 +922,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/screens/definition/edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-154.0">
-          <caret line="289" column="105" selection-start-line="289" selection-start-column="77" selection-end-line="289" selection-end-column="105" />
-          <folding>
-            <marker date="1466055728000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1466055728000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1466055728000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1466055728000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1466055728000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/screens/dashboard/displayScheduleType.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.07">
@@ -706,18 +967,6 @@
         <state vertical-scroll-proportion="0.79333335">
           <caret line="44" column="5" selection-start-line="25" selection-start-column="3" selection-end-line="44" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screens/conditionalReport/saveReport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72">
-          <caret line="78" column="17" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="17" />
-          <folding>
-            <marker date="1466148471559" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1466148471559" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1466148471559" expanded="true" signature="-1:-1" placeholder="UPDATE sched..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,11 +1024,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/screens/reports/cListReport1.php">
+    <entry file="file://$PROJECT_DIR$/database/patch.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.9">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.4">
+          <caret line="136" column="30" selection-start-line="136" selection-start-column="30" selection-end-line="136" selection-end-column="30" />
+          <folding>
+            <marker date="1466164828919" expanded="true" signature="9913:9979" placeholder="SELECT * FRO..maintenancecycle..." />
+            <marker date="1466164828919" expanded="true" signature="10543:10855" placeholder="..." />
+            <marker date="1466164828919" expanded="true" signature="10602:10723" placeholder="..." />
+            <marker date="1466164828919" expanded="true" signature="10650:10701" placeholder="..." />
+            <marker date="1466164828919" expanded="true" signature="10761:10855" placeholder="..." />
+            <marker date="1466164828919" expanded="true" signature="10842:10855" placeholder="..." />
+            <marker date="1466164828919" expanded="true" signature="10902:10957" placeholder="select Locat..ArchiveLocation..." />
+            <marker date="1466164828919" expanded="true" signature="11951:12198" placeholder="..." />
+            <marker date="1466164828919" expanded="true" signature="12234:12499" placeholder="..." />
+            <marker date="1466164828919" expanded="true" signature="14105:15390" placeholder="select t.Tas..tasklist..." />
+            <marker date="1466164828919" expanded="true" signature="16545:16617" placeholder="select Artef..artefact..." />
+            <marker date="1466164828919" expanded="true" signature="17273:18262" placeholder="SELECT cr.se..cr_section..." />
+            <marker date="1466164828919" expanded="true" signature="25195:25440" placeholder="..." />
+            <marker date="1466164828919" expanded="true" signature="25361:25435" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -795,53 +1067,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/screens/reports/cListReport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.3">
-          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-          <folding>
-            <marker date="1466157908023" expanded="true" signature="391:832" placeholder="SELECT artef..tasklist..." />
-            <marker date="1466157908023" expanded="true" signature="1912:2275" placeholder="SELECT cr.Ch..conditionalreport..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screens/conditionalReport/conditionalReport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.4">
-          <caret line="136" column="30" selection-start-line="136" selection-start-column="30" selection-end-line="136" selection-end-column="30" />
-          <folding>
-            <marker date="1466164369747" expanded="true" signature="9913:9979" placeholder="SELECT * FRO..maintenancecycle..." />
-            <marker date="1466164369747" expanded="true" signature="10543:10855" placeholder="..." />
-            <marker date="1466164369747" expanded="true" signature="10602:10723" placeholder="..." />
-            <marker date="1466164369747" expanded="true" signature="10650:10701" placeholder="..." />
-            <marker date="1466164369747" expanded="true" signature="10761:10855" placeholder="..." />
-            <marker date="1466164369747" expanded="true" signature="10842:10855" placeholder="..." />
-            <marker date="1466164369747" expanded="true" signature="10902:10957" placeholder="select Locat..ArchiveLocation..." />
-            <marker date="1466164369747" expanded="true" signature="11951:12198" placeholder="..." />
-            <marker date="1466164369747" expanded="true" signature="12234:12499" placeholder="..." />
-            <marker date="1466164369747" expanded="true" signature="14105:15390" placeholder="select t.Tas..tasklist..." />
-            <marker date="1466164369747" expanded="true" signature="16545:16617" placeholder="select Artef..artefact..." />
-            <marker date="1466164369747" expanded="true" signature="17273:18262" placeholder="SELECT cr.se..cr_section..." />
-            <marker date="1466164369747" expanded="true" signature="25195:25440" placeholder="..." />
-            <marker date="1466164369747" expanded="true" signature="25361:25435" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e8c51426-652d-40e8-8e12-2786ed7c2d18/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.0">
-          <caret line="194" column="0" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.4">
+          <caret line="197" column="13" selection-start-line="197" selection-start-column="2" selection-end-line="197" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/patch.sql">
+    <entry file="file://$PROJECT_DIR$/screens/reports/dom/lib/res/html.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/reports/dom/lib/html5lib/Parser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/reports/dom/lib/php-svg-lib/src/Svg/Tag/Line.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/reports/dom/lib/php-font-lib/src/FontLib/EOT/File.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/reports/dom/src/Autoloader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.096666664">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/reports/dom/autoload.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.0">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/conditionalReport/saveReport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.1">
+          <caret line="68" column="10" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+          <folding>
+            <marker date="1466165035308" expanded="true" signature="585:813" placeholder="INSERT INTO ..." />
+            <marker date="1466165035308" expanded="true" signature="1116:1380" placeholder="INSERT INTO ..." />
+            <marker date="1466165035308" expanded="true" signature="1485:1583" placeholder="UPDATE sched..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/pdf/cListReport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.2">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <marker date="1466166102000" expanded="true" signature="394:835" placeholder="SELECT artef..tasklist..." />
+            <marker date="1466166102000" expanded="true" signature="1583:1968" placeholder="SELECT cr.Ch..conditionalreport..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/reports/cListReport1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.8">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/reports/cListReport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.0">
+          <caret line="101" column="13" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
+          <folding>
+            <marker date="1466166886350" expanded="true" signature="391:832" placeholder="SELECT artef..tasklist..." />
+            <marker date="1466166886350" expanded="true" signature="1912:2275" placeholder="SELECT cr.Ch..conditionalreport..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/definition/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14">
+          <caret line="306" column="26" selection-start-line="306" selection-start-column="26" selection-end-line="306" selection-end-column="26" />
+          <folding>
+            <marker date="1466479528337" expanded="true" signature="7519:7530" placeholder="..." />
+            <marker date="1466479528337" expanded="true" signature="7619:7630" placeholder="..." />
+            <marker date="1466479528337" expanded="true" signature="7776:7787" placeholder="..." />
+            <marker date="1466479528337" expanded="true" signature="24514:24525" placeholder="..." />
+            <marker date="1466479528337" expanded="true" signature="24614:24625" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

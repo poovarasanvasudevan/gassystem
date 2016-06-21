@@ -52,12 +52,13 @@ foreach ($params as $paramkey => $paramvalue) {
 
     if ($paramkey != 'artefactCode' || $paramkey != 'scheduledKey') {
 
+		$val = mysqli_real_escape_string($conn,$paramvalue);
 
         $reportQuery = "
 					INSERT INTO conditionalreport
 					SET CheckListFK = '$paramkey',
 					  TaskListFK    = '$latRecordId',
-					  Result        = '$paramvalue',
+					  Result        = '$val',
 					  CreatedBy='$user',
 					  CreatedDate=CURRENT_TIMESTAMP,
 					  ModifiedBy='$user',
@@ -65,6 +66,7 @@ foreach ($params as $paramkey => $paramvalue) {
 				";
 
         $db->setQuery($reportQuery);
+		//echo $reportQuery."<br/>";
 
     }
 

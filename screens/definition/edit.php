@@ -315,46 +315,24 @@ $pages = $db->getPages($_SESSION['userPK']);
 
                             if (action == 'delete') {
 
-                                bootbox.dialog({
-                                    message: "Are you sure?",
-                                    title: "Confirmation",
-                                    closeButton: true,
-                                    buttons: {
-                                        success: {
-                                            label: "Yes",
-                                            className: "btn-primary",
-                                            callback: function () {
+                                r = confirm('Are you sure want to delete artefact ? ');
+                                if(r) {
+                                    $.ajax({
+                                        url: "deleteArtefact.php",
+                                        data: 'artefactType=' + $("#typeSelect").val() + '&artefactCode=' + node.key,
+                                        success: function (data) {
+                                            if (data == 'success') {
+                                                refreshTree();
+                                                $.growl.success({message: "Artefact Deleted Succcesfully!", size: 'large'});
 
-                                                $.ajax({
-                                                    url: "deleteArtefact.php",
-                                                    data: 'artefactType=' + $("#typeSelect").val() + '&artefactCode=' + node.key,
-                                                    success: function (data) {
-                                                        if (data == 'success') {
-                                                            $(this).modal('hide');
-                                                            refreshTree();
-                                                            bootbox.alert("Deleted Succesfully..");
+                                            } else {
 
-                                                        } else {
+                                                $.growl.error({message: "Failed to delete artefact..!", size: 'large'});
 
-                                                            $(this).modal('hide');
-                                                            bootbox.alert("Unable to delete this artefact.")
-
-                                                        }
-                                                    }
-                                                });
-
-                                            }
-                                        },
-                                        danger: {
-                                            label: "No",
-                                            className: "btn",
-                                            callback: function () {
-                                                $(this).modal('hide');
                                             }
                                         }
-
-                                    }
-                                });
+                                    });
+                                }
 
                             } else if (action == 'edit') {
 
