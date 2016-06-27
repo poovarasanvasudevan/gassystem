@@ -38,6 +38,11 @@ $artefactValueQuery = "insert into artefact (ArtefactPK,ArtefactCode,ArtefactTyp
 //$_SESSION['artefactPK']+=1;
 //echo $artefactValueQuery;
 $result = $db->setQuery($artefactValueQuery);
+$tableName = $_SESSION['type']."Attributes";
+$tableAddingQuery = "insert into $tableName SET artefactcode='$artefactCode'";
+$db->setQuery($tableAddingQuery);
+//echo $artefactNameAddQuery;
+echo $tableAddingQuery;
 //$result1=$db->setQuery("call insertAttribute('$artefactPK','$_SESSION[type]')");
 if ($result)
     echo 'Child Added';

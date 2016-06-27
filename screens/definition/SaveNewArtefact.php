@@ -23,10 +23,14 @@ $artefactPK++;
 
 
 $artefactNameAddQuery = "insert into artefact (artefactPK,artefactCode,artefactName,artefactTypeCode,LevelNumber,CreatedDate,CreatedBy) values ($artefactPK,$artefactCode,'$artefactName','$_SESSION[type]',0,CURRENT_TIMESTAMP,'$_SESSION[userPK]');";
+$tableName = $_SESSION['type']."Attributes";
+$tableAddingQuery = "insert into $tableName SET artefactcode='$artefactCode'";
 //echo $artefactNameAddQuery;
+//echo $tableAddingQuery;
 $db = new DatabaseConnection();
 $conn = $db->createConnection();
 $result = $db->setQuery($artefactNameAddQuery);
+$result = $db->setQuery($tableAddingQuery);
 
 //$result1=$db->setQuery("call insertAttribute('$artefactCode','$_SESSION[type]')");
 if ($result)
