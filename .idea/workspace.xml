@@ -2,507 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df0c678-d2ce-457d-ad2b-3ac07e106289" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/yinyang.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/3024-day.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/3024-night.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/AUTHORS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/abcdef.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/selection/active-line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/activebookmark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/activeline.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/ambiance-mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/ambiance.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/scroll/annotatescrollbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/hint/anyword-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/anywordhint.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/apl/apl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/artefact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/asciiarmor/asciiarmor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/asn.1/asn.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/asterisk/asterisk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/bin/authors.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/display/autorefresh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/base16-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/base16-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/bespin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/bidi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/blackboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/fold/brace-fold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/brainfuck/brainfuck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/btree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/buffers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/changemode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/clike/clike.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/clojure/clojure.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/closebrackets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/edit/closebrackets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/closetag.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/edit/closetag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/cmake/cmake.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/cobalt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/cobol/cobol.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/lib/codemirror.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/lib/codemirror.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/lint/coffeescript-lint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/coffeescript/coffeescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/colorforth.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/runmode/colorize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/fold/comment-fold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/comment/comment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/comment_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/commonlisp/commonlisp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/complete.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/compress.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/bin/compress" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/comment/continuecomment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/edit/continuelist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/crystal/crystal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/hint/css-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/lint/css-lint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/css/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/cypher/cypher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/d/d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/dart/dart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/dialog/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/dialog/dialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/diff/diff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/django/django.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/doc_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/dockerfile/dockerfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/dracula.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/driver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/dtd/dtd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/dylan/dylan.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ebnf/ebnf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ecl/ecl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/eclipse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/eiffel/eiffel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/elegant.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/elm/elm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/emacs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/keymap/emacs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/emacs_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/erlang-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/erlang/erlang.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/factor/factor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/fcl/fcl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/fold/foldcode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/fold/foldgutter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/fold/foldgutter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/folding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/forth/forth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/fortran/fortran.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/display/fullscreen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/fullscreen.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/display/fullscreen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/gas/gas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/gfm/gfm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/gherkin/gherkin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/go/go.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/groovy/groovy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/css/gss.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/css/gss_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/haml/haml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/handlebars/handlebars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/hardwrap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/wrap/hardwrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/haskell-literate/haskell-literate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/haskell/haskell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/haxe/haxe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/hopscotch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/hint/html-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/lint/html-lint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/html5complete.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/htmlembedded/htmlembedded.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/htmlmixed/htmlmixed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/http/http.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/icecoder.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/idl/idl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/fold/indent-fold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/indentwrap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/apl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/asciiarmor/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/asn.1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/asterisk/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/brainfuck/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/clike/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/clojure/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/cmake/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/cobol/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/coffeescript/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/commonlisp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/crystal/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/css/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/cypher/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/d/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/dart/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/diff/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/django/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/dockerfile/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/dtd/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/dylan/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ebnf/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ecl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/eiffel/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/elm/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/erlang/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/factor/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/fcl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/forth/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/fortran/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/gas/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/gfm/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/gherkin/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/go/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/groovy/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/haml/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/handlebars/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/haskell/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/haskell-literate/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/haxe/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/htmlembedded/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/htmlmixed/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/http/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/idl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/jade/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/javascript/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/jinja2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/jsx/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/julia/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/livescript/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/lua/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/markdown/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mathematica/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mbox/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mirc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mllike/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/modelica/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mscgen/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mumps/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/nginx/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/nsis/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ntriples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/octave/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/oz/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/pascal/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/pegjs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/perl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/php/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/pig/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/powershell/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/properties/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/protobuf/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/puppet/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/python/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/q/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/r/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/rpm/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/rpm/changes/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/rst/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ruby/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/rust/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/sas/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/sass/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/scheme/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/shell/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/sieve/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/slim/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/smalltalk/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/smarty/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/solr/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/soy/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/sparql/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/spreadsheet/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/sql/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/stex/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/stylus/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/swift/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/tcl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/textile/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/tiddlywiki/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/tiki/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/toml/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/tornado/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/troff/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ttcn/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ttcn-cfg/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/turtle/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/twig/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/vb/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/vbscript/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/velocity/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/verilog/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/vhdl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/vue/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/webidl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/xml/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/xquery/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/yacas/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/yaml/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/yaml-frontmatter/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/z80/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/internals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/isotope.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/jade/jade.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/hint/javascript-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/lint/javascript-lint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/javascript/javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/jinja2/jinja2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/javascript/json-ld.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/lint/json-lint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/jsx/jsx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/julia/julia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/search/jump-to-line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/css/less.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/css/less_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/lesser-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/lint/lint.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/lint.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/lint/lint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/lint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/bin/lint" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/liquibyte.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/livescript/livescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/loadmode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/mode/loadmode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/lua/lua.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/manual.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/selection/mark-selection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/fold/markdown-fold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/markdown/markdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/marker.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/markselection.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/search/match-highlighter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/edit/matchbrackets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/search/matchesonscrollbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/search/matchesonscrollbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/matchhighlighter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/matchtags.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/edit/matchtags.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/material.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mathematica/mathematica.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/mbo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mbox/mbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/mdn-like.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/merge/merge.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/merge.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/merge/merge.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/meta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/midnight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mirc/mirc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mllike/mllike.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/mode_test.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/mode_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/modelica/modelica.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/monokai.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mscgen/mscgen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mscgen/mscgen_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mscgen/msgenny_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/multi_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/multiplex.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/mode/multiplex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/mode/multiplex_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mumps/mumps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/mustache.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/neat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/neo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/nginx/nginx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/night.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/nsis/nsis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ntriples/ntriples.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/octave/octave.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/mode/overlay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/oz/oz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/panel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/display/panel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/paraiso-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/paraiso-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/pascal/pascal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/pastel-on-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/pegjs/pegjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/perl/perl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/phantom_driver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/php/php.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/pig/pig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/placeholder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/display/placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/powershell/powershell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/preview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/properties/properties.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/protobuf/protobuf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/puppet/puppet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/python/python.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/q/q.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/r/r.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/railscasts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/realworld.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/bin/release" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/releases.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/reporting.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/requirejs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/resize.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/rpm/rpm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/rst/rst.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ruby/ruby.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/rubyblue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/rulers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/display/rulers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/run.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/runmode/runmode-standalone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/runmode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/runmode/runmode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/runmode/runmode.node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/rust/rust.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/sas/sas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/sass/sass.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/clike/scala.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/scheme/scheme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/scroll_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/scroll/scrollpastend.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/css/scss.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/css/scss_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/search/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/search_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/search/searchcursor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/selection/selection-pointer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/seti.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/shell/shell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/hint/show-hint.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/hint/show-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/sieve/sieve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/mode/simple.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/simplemode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/scroll/simplescrollbars.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/simplescrollbars.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/scroll/simplescrollbars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/slim/slim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/smalltalk/smalltalk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/smarty/smarty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/solarized.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/solr/solr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/bin/source-highlight" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/soy/soy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/spanaffectswrapping_shim.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/sparql/sparql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/spreadsheet/spreadsheet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/sql-hint-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/hint/sql-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/sql/sql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/stex/stex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/stylus/stylus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/sublime.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/keymap/sublime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/sublime_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/swift/swift.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/tcl/tcl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/tern/tern.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/tern.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/tern/tern.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/clike/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/css/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/dylan/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/gfm/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/haml/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/javascript/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/jsx/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/markdown/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/php/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/powershell/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/python/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ruby/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/rust/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/shell/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/slim/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/stex/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/textile/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/verilog/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/xml/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/xquery/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/textile/textile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/the-matrix.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/theme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/tiddlywiki/tiddlywiki.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/tiddlywiki/tiddlywiki.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/tiki/tiki.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/tiki/tiki.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/toml/toml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/tomorrow-night-bright.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/tomorrow-night-eighties.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/tornado/tornado.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/trailingspace.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/edit/trailingspace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/troff/troff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ttcn-cfg/ttcn-cfg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/ttcn.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/ttcn/ttcn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/turtle/turtle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/twig/twig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/twilight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/javascript/typescript.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/upgrade_v2.2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/upgrade_v3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/doc/upgrade_v4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/bin/upload-release.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/variableheight.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/vb/vb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/vbscript/vbscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/velocity/velocity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/verilog/verilog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/vhdl/vhdl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/vibrant-ink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/vim.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/keymap/vim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/test/vim_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/visibletabs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/vue/vue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/webidl/webidl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/widget.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/tern/worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/fold/xml-fold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/hint/xml-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/xml/xml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/demo/xmlcomplete.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/xq-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/xq-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/xquery/xquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/mscgen/xu_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/yacas/yacas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/yaml-frontmatter/yaml-frontmatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/addon/lint/yaml-lint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/yaml/yaml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/yeti.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/mode/z80/z80.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/code/theme/zenburn.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screens/common/DatabaseConnection.php" afterPath="$PROJECT_DIR$/screens/common/DatabaseConnection.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screens/definition/SaveAttributes.php" afterPath="$PROJECT_DIR$/screens/definition/SaveAttributes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/js/admin.js" afterPath="$PROJECT_DIR$/admin/js/admin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/book.sql" afterPath="$PROJECT_DIR$/admin/book.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/dashboard.php" afterPath="$PROJECT_DIR$/admin/dashboard.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screens/definition/edit.php" afterPath="$PROJECT_DIR$/screens/definition/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/template/footer.php" afterPath="$PROJECT_DIR$/admin/template/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/template/header.php" afterPath="$PROJECT_DIR$/admin/template/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/logics/logics.php" afterPath="$PROJECT_DIR$/admin/logics/logics.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/queryconsole.php" afterPath="$PROJECT_DIR$/admin/queryconsole.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/DB/adminer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/DB/index.php" afterPath="$PROJECT_DIR$/admin/DB/adminer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gar.iws" />
@@ -598,105 +99,7 @@
     <favorites_list name="gar" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e8c51426-652d-40e8-8e12-2786ed7c2d18/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.0983605">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/screens/definition/edit.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.733334">
-              <caret line="635" column="50" selection-start-line="635" selection-start-column="50" selection-end-line="635" selection-end-column="50" />
-              <folding>
-                <marker date="1467011867819" expanded="true" signature="7519:7530" placeholder="..." />
-                <marker date="1467011867819" expanded="true" signature="7619:7630" placeholder="..." />
-                <marker date="1467011867819" expanded="true" signature="7776:7787" placeholder="..." />
-                <marker date="1467011867819" expanded="true" signature="24669:24680" placeholder="..." />
-                <marker date="1467011867819" expanded="true" signature="24769:24780" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SaveNewArtefact.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/screens/definition/SaveNewArtefact.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1466055728000" expanded="true" signature="295:371" placeholder="Select max(a..artefact..." />
-                <marker date="1466055728000" expanded="true" signature="641:860" placeholder="insert into ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SaveAttributes.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/screens/definition/SaveAttributes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.8461539">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="2" selection-end-line="22" selection-end-column="21" />
-              <folding>
-                <marker date="1467011214919" expanded="true" signature="829:921" placeholder="Select * fro..attributevalue..." />
-                <marker date="1467011214919" expanded="true" signature="1209:1301" placeholder="Select attri..attributevalue..." />
-                <marker date="1467011214919" expanded="true" signature="1961:2072" placeholder="update attri..." />
-                <marker date="1467011214919" expanded="true" signature="3269:3336" placeholder="select Artef..artefact..." />
-                <marker date="1467011214919" expanded="true" signature="3978:4267" placeholder="insert into ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DatabaseConnection.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/screens/common/DatabaseConnection.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.933333">
-              <caret line="289" column="10" selection-start-line="289" selection-start-column="10" selection-end-line="289" selection-end-column="10" />
-              <folding>
-                <marker date="1467011568616" expanded="true" signature="1488:1526" placeholder="Select value..utils..." />
-                <marker date="1467011568616" expanded="true" signature="1847:1928" placeholder="UPDATE user ..." />
-                <marker date="1467011568616" expanded="true" signature="2061:2133" placeholder="Select login..user..." />
-                <marker date="1467011568616" expanded="true" signature="2364:2430" placeholder="UPDATE user ..." />
-                <marker date="1467011568616" expanded="true" signature="2544:2591" placeholder="Select max(A..artefact..." />
-                <marker date="1467011568616" expanded="true" signature="4336:4392" placeholder="select * fro..artefacttype..." />
-                <marker date="1467011568616" expanded="true" signature="5050:5120" placeholder="Select count..artefact..." />
-                <marker date="1467011568616" expanded="true" signature="5408:5478" placeholder="Select count..artefact..." />
-                <marker date="1467011568616" expanded="true" signature="5754:5867" placeholder="UPDATE artef..." />
-                <marker date="1467011568616" expanded="true" signature="6100:6172" placeholder="SELECT Attri..attributes..." />
-                <marker date="1467011568616" expanded="true" signature="6878:7005" placeholder="insert into ..." />
-                <marker date="1467011568616" expanded="true" signature="7942:8000" placeholder="select * fro..uploads..." />
-                <marker date="1467011568616" expanded="true" signature="8432:8508" placeholder="Select COUNT..uploads..." />
-                <marker date="1467011568616" expanded="true" signature="8769:8828" placeholder="Select max(a..attributevalue..." />
-                <marker date="1467011568616" expanded="true" signature="9104:9151" placeholder="Select max(C..artefactcico..." />
-                <marker date="1467011568616" expanded="true" signature="9435:9486" placeholder="select max(a..artefact..." />
-                <marker date="1467011568616" expanded="true" signature="9857:9945" placeholder="SELECT count..." />
-                <marker date="1467011568616" expanded="true" signature="10229:10317" placeholder="select `File..." />
-                <marker date="1467011568616" expanded="true" signature="10704:10942" placeholder="select p.men..page..." />
-                <marker date="1467011568616" expanded="true" signature="10704:11007" placeholder="select p.men..." />
-                <marker date="1467011568616" expanded="true" signature="10949:11007" placeholder="select menut..page..." />
-                <marker date="1467011568616" expanded="true" signature="11392:11469" placeholder="select Artef..attributevalue..." />
-                <marker date="1467011568616" expanded="true" signature="11748:11813" placeholder="SELECT Alist..attributelist..." />
-                <marker date="1467011568616" expanded="true" signature="12114:12241" placeholder="select attri..attributes..." />
-                <marker date="1467011568616" expanded="true" signature="12169:12240" placeholder="select Attri..attributevalue..." />
-                <marker date="1467011568616" expanded="true" signature="12563:12672" placeholder="SELECT Attri..attributes..." />
-                <marker date="1467011568616" expanded="true" signature="12987:13085" placeholder="SELECT Attri..attributes..." />
-                <marker date="1467011568616" expanded="true" signature="13413:13481" placeholder="select Artef..artefact..." />
-                <marker date="1467011568616" expanded="true" signature="13786:13896" placeholder="Select Artef..artefacttype..." />
-                <marker date="1467011568616" expanded="true" signature="14203:14289" placeholder="select alist..attributes..." />
-                <marker date="1467011568616" expanded="true" signature="14551:14571" placeholder="select * fro..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -755,6 +158,10 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e8c51426-652d-40e8-8e12-2786ed7c2d18/console.sql" />
         <option value="$PROJECT_DIR$/screens/common/DatabaseConnection.php" />
         <option value="$PROJECT_DIR$/screens/definition/edit.php" />
+        <option value="$PROJECT_DIR$/admin/DB/adminer.css" />
+        <option value="$PROJECT_DIR$/admin/editor/config.example.php" />
+        <option value="$PROJECT_DIR$/admin/editor/index.php" />
+        <option value="$PROJECT_DIR$/admin/editor/config.php" />
       </list>
     </option>
   </component>
@@ -807,66 +214,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GAS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GAS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="screens" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GAS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="screens" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="definition" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GAS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="screens" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -888,11 +235,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin/editor" />
+      <recent name="$PROJECT_DIR$/admin/DB" />
       <recent name="$PROJECT_DIR$/admin" />
       <recent name="$PROJECT_DIR$/screens/pdf" />
       <recent name="$PROJECT_DIR$/screens/reports/dom/lib" />
-      <recent name="$PROJECT_DIR$/screens/reports/dom" />
-      <recent name="$PROJECT_DIR$/screens/reports" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Built-in Web Server.Unnamed">
@@ -943,6 +290,19 @@
       <option name="number" value="Default" />
       <updated>1464066844228</updated>
     </task>
+    <task id="LOCAL-00001" summary="SAVE COMMIT&#10;">
+      <created>1467012233230</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467012233230</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SAVE COMMIT&#10;">
+      <created>1467012474690</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1467012474690</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -951,19 +311,20 @@
     <layout>
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30520833" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3375" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07178082" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.50625" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15671232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33854166" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="1.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -981,67 +342,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SAVE COMMIT&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="SAVE COMMIT&#10;" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/screens/pdf/conditionalReportPdf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.6">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screens/login/loginValidate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.0">
-          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screens/maintain/saveFullPeriodicMaintainance.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54555553">
-          <caret line="175" column="45" selection-start-line="175" selection-start-column="45" selection-end-line="175" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screens/reports/Reports.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.42">
-          <caret line="249" column="112" selection-start-line="249" selection-start-column="100" selection-end-line="249" selection-end-column="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screens/reports/conditionalreport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/dropzone.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/artefact/reports.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="158.93333">
-          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/artefact/maintain.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/artefact/roles.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1331,77 +640,152 @@
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1466055728000" expanded="true" signature="295:371" placeholder="Select max(a..artefact..." />
-            <marker date="1466055728000" expanded="true" signature="641:860" placeholder="insert into ..." />
+            <marker date="1466055728000" expanded="true" signature="-1:-1" placeholder="Select max(a..artefact..." />
+            <marker date="1466055728000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/screens/definition/SaveAttributes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8461539">
+        <state vertical-scroll-proportion="0.20023838">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="2" selection-end-line="22" selection-end-column="21" />
           <folding>
-            <marker date="1467011214919" expanded="true" signature="829:921" placeholder="Select * fro..attributevalue..." />
-            <marker date="1467011214919" expanded="true" signature="1209:1301" placeholder="Select attri..attributevalue..." />
-            <marker date="1467011214919" expanded="true" signature="1961:2072" placeholder="update attri..." />
-            <marker date="1467011214919" expanded="true" signature="3269:3336" placeholder="select Artef..artefact..." />
-            <marker date="1467011214919" expanded="true" signature="3978:4267" placeholder="insert into ..." />
+            <marker date="1467011214919" expanded="true" signature="-1:-1" placeholder="Select * fro..attributevalue..." />
+            <marker date="1467011214919" expanded="true" signature="-1:-1" placeholder="Select attri..attributevalue..." />
+            <marker date="1467011214919" expanded="true" signature="-1:-1" placeholder="update attri..." />
+            <marker date="1467011214919" expanded="true" signature="-1:-1" placeholder="select Artef..artefact..." />
+            <marker date="1467011214919" expanded="true" signature="-1:-1" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/screens/common/DatabaseConnection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.933333">
+        <state vertical-scroll-proportion="0.5311111">
           <caret line="289" column="10" selection-start-line="289" selection-start-column="10" selection-end-line="289" selection-end-column="10" />
           <folding>
-            <marker date="1467011568616" expanded="true" signature="1488:1526" placeholder="Select value..utils..." />
-            <marker date="1467011568616" expanded="true" signature="1847:1928" placeholder="UPDATE user ..." />
-            <marker date="1467011568616" expanded="true" signature="2061:2133" placeholder="Select login..user..." />
-            <marker date="1467011568616" expanded="true" signature="2364:2430" placeholder="UPDATE user ..." />
-            <marker date="1467011568616" expanded="true" signature="2544:2591" placeholder="Select max(A..artefact..." />
-            <marker date="1467011568616" expanded="true" signature="4336:4392" placeholder="select * fro..artefacttype..." />
-            <marker date="1467011568616" expanded="true" signature="5050:5120" placeholder="Select count..artefact..." />
-            <marker date="1467011568616" expanded="true" signature="5408:5478" placeholder="Select count..artefact..." />
-            <marker date="1467011568616" expanded="true" signature="5754:5867" placeholder="UPDATE artef..." />
-            <marker date="1467011568616" expanded="true" signature="6100:6172" placeholder="SELECT Attri..attributes..." />
-            <marker date="1467011568616" expanded="true" signature="6878:7005" placeholder="insert into ..." />
-            <marker date="1467011568616" expanded="true" signature="7942:8000" placeholder="select * fro..uploads..." />
-            <marker date="1467011568616" expanded="true" signature="8432:8508" placeholder="Select COUNT..uploads..." />
-            <marker date="1467011568616" expanded="true" signature="8769:8828" placeholder="Select max(a..attributevalue..." />
-            <marker date="1467011568616" expanded="true" signature="9104:9151" placeholder="Select max(C..artefactcico..." />
-            <marker date="1467011568616" expanded="true" signature="9435:9486" placeholder="select max(a..artefact..." />
-            <marker date="1467011568616" expanded="true" signature="9857:9945" placeholder="SELECT count..." />
-            <marker date="1467011568616" expanded="true" signature="10229:10317" placeholder="select `File..." />
-            <marker date="1467011568616" expanded="true" signature="10704:10942" placeholder="select p.men..page..." />
-            <marker date="1467011568616" expanded="true" signature="10704:11007" placeholder="select p.men..." />
-            <marker date="1467011568616" expanded="true" signature="10949:11007" placeholder="select menut..page..." />
-            <marker date="1467011568616" expanded="true" signature="11392:11469" placeholder="select Artef..attributevalue..." />
-            <marker date="1467011568616" expanded="true" signature="11748:11813" placeholder="SELECT Alist..attributelist..." />
-            <marker date="1467011568616" expanded="true" signature="12114:12241" placeholder="select attri..attributes..." />
-            <marker date="1467011568616" expanded="true" signature="12169:12240" placeholder="select Attri..attributevalue..." />
-            <marker date="1467011568616" expanded="true" signature="12563:12672" placeholder="SELECT Attri..attributes..." />
-            <marker date="1467011568616" expanded="true" signature="12987:13085" placeholder="SELECT Attri..attributes..." />
-            <marker date="1467011568616" expanded="true" signature="13413:13481" placeholder="select Artef..artefact..." />
-            <marker date="1467011568616" expanded="true" signature="13786:13896" placeholder="Select Artef..artefacttype..." />
-            <marker date="1467011568616" expanded="true" signature="14203:14289" placeholder="select alist..attributes..." />
-            <marker date="1467011568616" expanded="true" signature="14551:14571" placeholder="select * fro..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="Select value..utils..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="UPDATE user ..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="Select login..user..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="UPDATE user ..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="Select max(A..artefact..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select * fro..artefacttype..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="Select count..artefact..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="Select count..artefact..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="UPDATE artef..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="SELECT Attri..attributes..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select * fro..uploads..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="Select COUNT..uploads..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="Select max(a..attributevalue..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="Select max(C..artefactcico..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select max(a..artefact..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="SELECT count..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select `File..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select p.men..page..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select p.men..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select menut..page..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select Artef..attributevalue..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="SELECT Alist..attributelist..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select attri..attributes..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select Attri..attributevalue..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="SELECT Attri..attributes..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="SELECT Attri..attributes..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select Artef..artefact..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="Select Artef..artefacttype..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select alist..attributes..." />
+            <marker date="1467012278826" expanded="true" signature="-1:-1" placeholder="select * fro..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/DB/adminer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="SELECT SCHEM..SCHEMATA..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="SELECT TABLE..TABLES..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="SELECT TABLE..TABLES..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="ALTER TABLE ..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="ALTER TABLE ..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="DROP TABLE $..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="SELECT ROUTI..ROUTINES..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="SELECT User,..mysql...." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="ALTER TABLE ..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..EVENTS..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467012343000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/screens/definition/edit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.733334">
+        <state vertical-scroll-proportion="-21.466667">
           <caret line="635" column="50" selection-start-line="635" selection-start-column="50" selection-end-line="635" selection-end-column="50" />
           <folding>
-            <marker date="1467011867819" expanded="true" signature="7519:7530" placeholder="..." />
-            <marker date="1467011867819" expanded="true" signature="7619:7630" placeholder="..." />
-            <marker date="1467011867819" expanded="true" signature="7776:7787" placeholder="..." />
-            <marker date="1467011867819" expanded="true" signature="24669:24680" placeholder="..." />
-            <marker date="1467011867819" expanded="true" signature="24769:24780" placeholder="..." />
+            <marker date="1467011867819" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467011867819" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467011867819" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467011867819" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1467011867819" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/DB/adminer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11290322">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
