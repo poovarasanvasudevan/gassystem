@@ -42,7 +42,7 @@ $tableName = $_SESSION['type']."Attributes";
 $tableAddingQuery = "insert into $tableName SET artefactcode='$artefactCode'";
 $db->setQuery($tableAddingQuery);
 //echo $artefactNameAddQuery;
-echo $tableAddingQuery;
+//echo $tableAddingQuery;
 //$result1=$db->setQuery("call insertAttribute('$artefactPK','$_SESSION[type]')");
 if ($result)
     echo 'Child Added';
