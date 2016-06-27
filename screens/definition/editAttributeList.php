@@ -97,6 +97,8 @@ $attributeValue = array();
 $dataAvailable = true;
 if (isset($_GET['artefactTitle']) || isset($_GET['artefactCode'])) {
     echo '<h3 align=center> Artefact:' . $_GET['artefactTitle'] . '</h3>';
+    $url = "/screens/reports/artefact.php?artefactcode=".$_GET['artefactCode'];
+    echo '<a class="pull-right btn btn-primary" href="'.$url.'" target="_blank">Pdf</a>';
     $artefactAttributesQuery = "select * from $_SESSION[type]" . "Attributes where artefactCode='$_GET[artefactCode]';";
     //echo $artefactAttributesQuery;
     $result = $db->setQuery($artefactAttributesQuery);
@@ -109,9 +111,10 @@ if (isset($_GET['artefactTitle']) || isset($_GET['artefactCode'])) {
             while ($row = $result->fetch_assoc()) {
                 //$val[] = $row;
                 for ($index = 0; $index < sizeof($columnArray); $index++) {
-                    if (isset($row[$columnArray[$index]]))
+                    if (isset($row[$columnArray[$index]])) {
                         $attributeValue[$index] = $row[$columnArray[$index]];
-                    //echo $row[$columnArray[$index]];
+                      // echo $row[$columnArray[$index]]."<br/>";
+                    }
                 }
 
             }
