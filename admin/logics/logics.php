@@ -11,10 +11,8 @@ $db = new DatabaseConnection();
 $db->createConnection();
 if (isset($_GET['function'])) {
     $function_name = $_GET['function'];
-
-   $query =  '$db->' . $function_name . "()";
-    echo $query;
-    eval($query);
-
+    if ($function_name == 'getArtefactTree') {
+        echo json_encode($db->getArtefactTree());
+    }
 }
 ?>

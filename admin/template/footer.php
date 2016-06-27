@@ -12,6 +12,8 @@
 <script src="../admin/angular/angular-aria.min.js"></script>
 <script src="../admin/angular/angular-material.min.js"></script>
 <script src="../admin/js/admin.js"></script>
+<script src="../admin/code/lib/codemirror.js"></script>
+<script src="../admin/code/mode/sql/sql.js"></script>
 </body>
 </html>
 

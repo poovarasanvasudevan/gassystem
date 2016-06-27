@@ -15,9 +15,7 @@
 
 <div class="col-md-12" style="margin-top: 0px !important;padding: 0;">
     <div class="col-md-2" style="height: 93.5% !important;background: #ffffff;padding: 0; overflow-y: auto;">
-
         <?php include 'sidemenu.php'?>
-
     </div>
     <div class="col-md-10">
 

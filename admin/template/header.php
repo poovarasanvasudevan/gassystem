@@ -12,5 +12,6 @@
     <link rel="stylesheet" href="../admin/css/material.css">
     <link rel="stylesheet" href="../admin/css/style.css">
     <link rel="stylesheet" href="../admin/css/icons.css">
+    <link rel="stylesheet" href="../admin/code/lib/codemirror.css">
 </head>
 <body ng-app="globalapp" ng-controller="globalcontroller">

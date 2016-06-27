@@ -24,7 +24,7 @@ class DatabaseConnection
      * */
     function createConnection()
     {
-        $this->connection = new mysqli("127.0.0.1", "root", 'poosan', "gas");
+        $this->connection = new mysqli("127.0.0.1", "root", 'welcome', "gas");
         if (!$this->connection->connect_error) {
             return $this->connection;
         } else
@@ -170,6 +170,18 @@ class DatabaseConnection
         }
     }
 
+    function getArtefactTree()
+    {
+        $resultArray = array();
+        $sql = "select * from artefacttype WHERE ArtefactTypePID is NULL";
+        if ($result = mysqli_query($this->connection, $sql)) {
+            while ($r = $result->fetch_assoc()) {
+                $resultArray[] = $r;
+            }
+        }
+        return $resultArray;
+    }
+
     function is_url_exist($url)
     {
         $ch = curl_init($url);
@@ -269,11 +281,13 @@ class DatabaseConnection
         $tablename = $artefactType . 'Attributes';
         $attribute = $this->getAttr1($attributeCode);
 
-        // echo $attribute;
+//        echo "Attr=".$attributeCode;
+//        echo "Attribute=".$attribute;
+//        echo "val=".$attributeValue;
 
-        $sql = "update $tablename set `$attribute` = '$attributeValue' WHERE  artefactcode = '$artefactCode'";
-
-        echo $sql . ";<br/>";
+        $val = mysqli_real_escape_string($this->connection, $attributeValue);
+        $sql = "update $tablename set `$attribute` = '$val' WHERE  artefactcode = '$artefactCode'";
+        //echo $sql . ";<br/>";
         mysqli_query($this->connection, "SET SQL_SAFE_UPDATES = 0");
         mysqli_query($this->connection, $sql);
 

@@ -316,14 +316,17 @@ $pages = $db->getPages($_SESSION['userPK']);
                             if (action == 'delete') {
 
                                 r = confirm('Are you sure want to delete artefact ? ');
-                                if(r) {
+                                if (r) {
                                     $.ajax({
                                         url: "deleteArtefact.php",
                                         data: 'artefactType=' + $("#typeSelect").val() + '&artefactCode=' + node.key,
                                         success: function (data) {
                                             if (data == 'success') {
                                                 refreshTree();
-                                                $.growl.success({message: "Artefact Deleted Succcesfully!", size: 'large'});
+                                                $.growl.success({
+                                                    message: "Artefact Deleted Succcesfully!",
+                                                    size: 'large'
+                                                });
 
                                             } else {
 
@@ -590,7 +593,7 @@ $pages = $db->getPages($_SESSION['userPK']);
             else if (str == 'Save') {
 
                 var r = confirm("Are you sure you want to submit ?");
-                if(r) {
+                if (r) {
 
                     var DataArray = new Array();
                     var nameArray = new Array();
@@ -602,7 +605,7 @@ $pages = $db->getPages($_SESSION['userPK']);
                             for (i = 0; i < formData.length; i++) {
                                 if (formData.elements[i].value != '') {
                                     filledCount++;
-                                    DataArray[i] = formData.elements[i].value;
+                                    DataArray[i] = encodeURIComponent(formData.elements[i].value);
                                     nameArray[i] = formData.elements[i].id;
                                 }
                                 else {
@@ -627,9 +630,10 @@ $pages = $db->getPages($_SESSION['userPK']);
                                     var na1 = nameArray.join("@");
 
 
+                                    var touri = "SaveAttributes.php?" + "elem=" + na1 + "&dataArray=" + da1 + '&artefactCode=' + activeNodeKey + '&artefactName=' + activeNodeTitle + '&type=' + $("#typeSelect").val();
                                     $.ajax({
-                                        url: "SaveAttributes.php",
-                                        data: "elem=" + na1 + "&dataArray=" + da1 + '&artefactCode=' + activeNodeKey + '&artefactName=' + activeNodeTitle + '&type=' + $("#typeSelect").val(),
+                                        method: 'post',
+                                        url: touri,
                                         success: function (data) {
                                             //$('#AttributeListDiv').html(data);
                                             $.growl.notice({message: "Artefact Succesfully Updated...", size: 'large'});
