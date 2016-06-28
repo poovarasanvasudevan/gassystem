@@ -102,7 +102,9 @@ $pages = $obj->getPages($_SESSION['userPK']);
                 </div>
             </div>
             <div class="col-md-5 padding0">
-                <div class="col-md-12 text-right logout ">
+
+                <div class="col-md-6 text-right logout pull-right">
+                    <a class="changepassword pull-left">Change Password</a>
                     <a href="../common/logout.php">Logout</a>
                 </div>
                 <div class="col-md-12 tp-login-info">

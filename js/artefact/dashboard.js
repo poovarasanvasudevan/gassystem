@@ -97,6 +97,12 @@ $(function () {
         return false;
     });
 
+    $('.changepassword').on('click',function() {
+        var p1 = 'scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no'
+        var p2 = 'width=800,height=550,left=200,top=200'
+        open('/screens/password/index.php', 'test', p1+p2)
+    });
+
 
 });
 
