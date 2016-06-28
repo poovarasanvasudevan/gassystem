@@ -420,7 +420,7 @@
     the email starts from this center, so we try to
     apply necessary styling e.g. background-color.
 -->
-<center style="background-color:#E1E1E1;">
+<center style="background-color:#E1E1E1;margin-bottom: 80px;!important;">
     <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable"
            style="table-layout: fixed;max-width:100% !important;width: 100% !important;min-width: 100% !important;">
         <tr>
@@ -591,14 +591,6 @@
                                         <table border="0" cellpadding="0" cellspacing="0" width="500"
                                                class="flexibleContainer">
                                             <tr>
-                                                <td class="imageContent" valign="top">
-                                                    <img src="http://www.charlesmudy.com/respmail/respmail-full.jpg"
-                                                         class="flexibleImage"
-                                                         style="max-width:500px;width:100%;display:block;" alt="Text"
-                                                         title="Text" width="500">
-                                                </td>
-                                            </tr>
-                                            <tr>
                                                 <td align="center" valign="top" width="500"
                                                     class="flexibleContainerCell">
                                                     <table border="0" cellpadding="30" cellspacing="0" width="100%">
@@ -699,5 +691,10 @@
         </tr>
     </table>
 </center>
+</br>
+</br>
+</br>
+</br>
+</br>
 </body>
 </html>
