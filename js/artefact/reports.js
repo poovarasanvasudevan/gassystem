@@ -42,7 +42,7 @@ $(function () {
         });
 
         $('#searchReport').click(function () {
-            alert();
+            //alert();
             $('#result').html("");
 
             var fromDate = $('#rfromDate').val();

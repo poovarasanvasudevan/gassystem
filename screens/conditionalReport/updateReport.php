@@ -5,7 +5,7 @@ session_start();
 include '../common/DatabaseConnection.php';
 
 $params = array();
-foreach ($_GET as $key => $value) {
+foreach ($_POST as $key => $value) {
     $params[$key] = $value;
 }
 
@@ -19,6 +19,7 @@ $currentDate = date('Y-m-d');
 $db = new DatabaseConnection();
 $conn = $db->createConnection();
 
+//echo "Hai";
 $result = "";
 foreach ($params as $paramkey => $paramvalue) {
 
@@ -29,7 +30,8 @@ foreach ($params as $paramkey => $paramvalue) {
                                 WHERE CheckListFK='$paramkey'
                                 AND TaskListFK='$taskid'";
 
-       $result = $db->setQuery($updatequery);
+        //echo $updatequery;
+        $result = $db->setQuery($updatequery);
 
     }
 

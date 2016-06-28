@@ -121,26 +121,44 @@ $pages = $db->getPages($_SESSION ['userPK']);
                 var values = $("#conditionalForm").serialize();
                 var scheduledKey = getUrlParameter('key');
                 var artefactCode = getUrlParameter('artefactCode');
-                var urlProcess = values + '&artefactCode=' + artefactCode + '&scheduledKey=' + scheduledKey;
+                var urlProcess = values + '&artefactCode=' + artefactCode + '&scheduledKey=' + scheduledKey + '&taskid=' + taskId;
 
                 if (values == "") {
                     return false;
                 }
 
-                $.ajax({
-                    method: "POST",
-                    url: "saveReport.php",
-                    data: urlProcess,
-                    success: function (data) {
-                        if (data == 'success') {
-                            $.growl.notice({message: "Report saved succesfully..!", size: 'large'});
-                            //window.location = "../dashboard/dashboard.php";
-                        } else {
-                            $.growl.error({message: "failed to save report..!", size: 'large'});
-                            //$('#status').html("<div class='alert alert-danger' role='alert'>" + data + "</div>");
+                if ($('#conditionalForm').attr('form-type') == 'update') {
+
+                    $.ajax({
+                        method: "POST",
+                        url: "updateReport.php",
+                        data: urlProcess,
+                        success: function (data) {
+                            if (data == 'success') {
+                                $.growl.notice({message: "Report saved succesfully..!", size: 'large'});
+                                //window.location = "../dashboard/dashboard.php";
+                            } else {
+                                $.growl.error({message: "failed to save report..!", size: 'large'});
+                                //$('#status').html("<div class='alert alert-danger' role='alert'>" + data + "</div>");
+                            }
                         }
-                    }
-                });
+                    });
+                } else {
+                    $.ajax({
+                        method: "POST",
+                        url: "saveReport.php",
+                        data: urlProcess,
+                        success: function (data) {
+                            if (data == 'success') {
+                                $.growl.notice({message: "Report saved succesfully..!", size: 'large'});
+                                //window.location = "../dashboard/dashboard.php";
+                            } else {
+                                $.growl.error({message: "failed to save report..!", size: 'large'});
+                                //$('#status').html("<div class='alert alert-danger' role='alert'>" + data + "</div>");
+                            }
+                        }
+                    });
+                }
             }
 
             $('#newCR').on('click', function () {
@@ -172,6 +190,7 @@ $pages = $db->getPages($_SESSION ['userPK']);
                                 var keyData = jsond.CheckListFK;
                                 var valueData = jsond.Result;
 
+                                $('#saveButton').val("Update Report");
                                 document.getElementById(keyData).value = valueData;
                             }
                         }
@@ -384,12 +403,14 @@ $pages = $db->getPages($_SESSION ['userPK']);
 
                                             <?php
                                             $artefactTypeCode;
-                                            $res = $db->setQuery("select ArtefactTypeCode from artefact where ArtefactCode='$artefactCode'");
+                                            $asql = "select ArtefactTypeCode from artefact where ArtefactCode='$artefactCode'";
+                                            $res = $db->setQuery($asql);
                                             if ($res->num_rows > 0) {
                                                 while ($row1 = $res->fetch_assoc()) {
                                                     $artefactTypeCode = $db->getParentType($row1 ['ArtefactTypeCode']);
                                                 }
                                             }
+
                                             if ($artefactTypeCode == 'VTrack')
                                                 $artefactTypeCode = 'Video';
 

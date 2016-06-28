@@ -151,7 +151,7 @@ class DatabaseConnection
             return 'Video';
         else if ($type == 'PhotoBox' || $type == 'Photos')
             return 'PhotoBox';
-        else if ($type == 'BBox' || $type == 'Book' || $type == 'Brochure' || $type == 'Souvenir')
+        else if ($type == 'BBox' || $type == 'Book' || $type == 'Brochure' || $type == 'Souvenir' || $type='Bbox')
             return 'BBox';
     }
 

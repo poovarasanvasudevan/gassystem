@@ -247,7 +247,7 @@ $pages = $db->getPages($_SESSION['userPK']);
                                 <div class='col-md-4 marginT10'>
                                     <div class='col-md-2'><label class='marginT10'> </label></div>
                                     <div class='col-md-10'>
-                                        <input type="button" value="Search" name="searchReport" id="searchReport">
+                                        <input type="button" value="Search" name="searchReport" id="searchReport" class="btn btn-primary">
                                     </div>
                                 </div>
 
