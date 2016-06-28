@@ -11,15 +11,15 @@ define("DB_NAME", "newaugust01");
 
 //mail credentials
 
-define("MAIL_HOST", "172.16.1.64");
+define("MAIL_HOST", "172.16.6.127");
 define("MAIL_PORT", 587);
-define("MAIL_USERNAME", "TestAlg1@test.com");
-define("MAIL_PWD", "Test@101");
-define("MAIL_LAYER", "tls");
+define("MAIL_USERNAME", "poovarasan@acsins.com");
+define("MAIL_PWD", "123Welcome");
+define("MAIL_LAYER", "ssl");
 
 
 //mail text
-define("MAIL_SUBJECT", 'Global Archive Pending Task');
+define("MAIL_SUBJECT", 'Global Archive');
 
 
 

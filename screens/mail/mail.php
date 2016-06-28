@@ -35,9 +35,9 @@ function sendMail($to,$body) {
 	$mail->SMTPAuth = true;                               // Enable SMTP authentication
 	$mail->Username = MAIL_USERNAME;                 // SMTP username
 	$mail->Password = MAIL_PWD;                           // SMTP password
-	$mail->SMTPSecure = MAIL_LAYER;                            // Enable TLS encryption, `ssl` also accepted
+	//$mail->SMTPSecure = MAIL_LAYER;                            // Enable TLS encryption, `ssl` also accepted
 	$mail->Port = MAIL_PORT;                                    // TCP port to connect to
-	
+	//$mail->SMTPDebug = 1;
 	$mail->From = MAIL_USERNAME;
 	$mail->addAddress($to);               // Name is optional
 	$mail->isHTML(true);                                  // Set email format to HTML
